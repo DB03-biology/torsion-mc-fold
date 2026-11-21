@@ -6,7 +6,7 @@ A lightweight C implementation of a $C_\alpha$ coarse-grained protein folding si
 
 Watch the folding simulation of the *Avena sativa* LOV2 domain (**AsLOV2**) starting from a fully extended linear chain:
 
-https://github.com/DB03-biology/torsion-mc-fold.git/raw/main/folding_movie.mp4
+[https://github.com/DB03-biology/torsion-mc-fold.git/raw/main/folding_movie.mp4](https://github.com/DB03-biology/torsion-mc-fold/issues/1#issue-6526666341)
 
 *(If the video player does not load inline in your browser, you can view or download [`folding_movie.mp4`](folding_movie.mp4) directly from the repository.)*
 
